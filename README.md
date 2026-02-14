@@ -32,7 +32,7 @@ Event Flow
         
 ---------
 
-Architecture Diagram
+🧩 Architecture Diagram
 ---------
 
   
@@ -65,7 +65,7 @@ Architecture Diagram
 --------
 
 🔍 EventBridge Rule Configuration
-
+---
         {
            "source": ["aws.iam"],
         "detail-type": ["AWS API Call via CloudTrail"],
